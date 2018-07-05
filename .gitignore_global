@@ -7,6 +7,7 @@ Icon
 
 # Editor stuff
 .vscode
+.vscode/*
 
 # Thumbnails
 ._*

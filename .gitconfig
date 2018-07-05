@@ -1,0 +1,7 @@
+[user]
+	name = Joseph Gerard Campbell
+	email = joseph.campbell@students.mq.edu.au
+[color]
+	ui = auto
+[core]
+	excludesfile = ~/.gitignore_global
